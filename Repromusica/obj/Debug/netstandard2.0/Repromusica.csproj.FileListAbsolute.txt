@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Repromusica\Repromusica\bin\Debug\netstandard2.0\Repromusica.deps.json
+C:\Users\User\source\repos\Repromusica\Repromusica\bin\Debug\netstandard2.0\Repromusica.dll
+C:\Users\User\source\repos\Repromusica\Repromusica\bin\Debug\netstandard2.0\ref\Repromusica.dll
+C:\Users\User\source\repos\Repromusica\Repromusica\bin\Debug\netstandard2.0\Repromusica.pdb
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\Repromusica.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\Repromusica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\Vistas\Listamusica.xaml.g.cs
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\Repromusica.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\Repromusica.AssemblyInfo.cs
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\Repromusica.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\Repromusica.dll
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\refint\Repromusica.dll
+C:\Users\User\source\repos\Repromusica\Repromusica\obj\Debug\netstandard2.0\Repromusica.pdb
